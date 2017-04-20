@@ -1,0 +1,65 @@
+#area{
+    width: 800px;
+    height: 400px;
+    background-color: #306429;
+   position: relative;
+    left: 20%; 
+    top:100px;
+}
+#porteriaDerecha{
+    width: 15%;
+    height: 50%;
+    background-color: #306429;
+    border: 3px solid #FFFFFF;
+    position: absolute;
+    bottom: 25%;
+}
+
+#porteriaIzquierda{
+    width: 15%;
+    height: 50%;
+    background-color: #306429;
+    border: 3px solid #FFFFFF;
+    position: absolute;
+    bottom: 25%;
+    right: 0;
+}
+
+#circuloCentral{
+    width: 100px;
+    height: 100px;
+    background-color: #306429;
+    border: 2px solid #FFFFFF;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 40%;
+    right: 42%;      
+}
+
+.balon {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #FFFFFF;
+    position: absolute;
+}
+
+#balon1{
+    left: 25%;
+    top: 30%;
+}
+
+#balon2{
+    right: 60%;
+    top: 20%;
+}
+
+#balon3{
+    left: 83%;
+    top: 80%;
+}
+
+
+
+
+
